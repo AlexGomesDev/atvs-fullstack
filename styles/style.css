@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+}
+
+
+/* ------ Index.html ------ */
+body{
+    background-image: url(../imagens/img2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    margin: auto;
+    margin-top: 50px;    
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    max-width: 260px;
+    background-color: lightblue;
+    border-radius: 10px;    
+}
+
+.entrada{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+button{
+    padding: 5px;
+}
+
+#resultado{
+    margin-top: 20px;
+}
+
+
+/* ------ lógica.html ------ */
+#sobre{    
+    max-width: 500px;
+    background-color: rgb(218, 250, 218);
+    border-radius: 20px;
+}
+
+p{
+    text-align: justify;
+    margin-top: 5px;
+}
+
+h1{
+    /* text-align: center; */
+    margin-bottom: 10px;
+}
+
+a{
+    text-align: right;
+    display: inline;
+}
