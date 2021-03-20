@@ -59,3 +59,9 @@ a{
     text-align: right;
     display: inline;
 }
+
+footer{
+    margin-top: 10px;
+    font-size: 0.5rem;
+    text-align: right;
+}
